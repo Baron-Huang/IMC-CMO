@@ -12,7 +12,7 @@
 
 Here's an overview of our **Manifold-constrained Adaptive Clustering (MacNet)** method:
 
-![Figure 1](./images/MacNet_main.png)
+![Figure 1](./images/xxx.png)
 
 Here's some exciting experimental results of both active interpretbility and passive interpretabiity that explain both decision-making process and outcome contribution:
 
