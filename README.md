@@ -1,5 +1,4 @@
-# An Instance-causality Mamba Clustering with Cluster Marginal-probability Optimization for Whole-slide Image Interpretable Classification
-
+# An Instance-causality Mamba Clustering with Cluster Marginal-probability Contrast for Tumor Spatial-causality Explainable Learning
 ## 🤹 Authors [*Corresponding author]
 - Pan Huang, _Member_, _IEEE_, Yifang Ping, and Jing Qin*, _Senior Member_, _IEEE_
 
@@ -10,7 +9,7 @@
 
 ## :rocket: Pipeline
 
-Here's an overview of our **Instance-causality Mamba Clustering with Cluster Marginal-probability Optimization (IMC-CMO)** method:
+Here's an overview of our **Instance-causality Mamba Clustering with Cluster Marginal-probability Contrast (IMC-CMC)** method:
 
 ![Figure 1](./images/xxx.png)
 
